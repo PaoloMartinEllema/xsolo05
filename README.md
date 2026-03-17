@@ -57,6 +57,11 @@
     />
   </a>
 </p>
+
+---
+
+## 📫 Contact
+
 <p align="left">
   <a href="https://www.facebook.com/hiredGun32/">
     <img
@@ -64,17 +69,18 @@
       alt="Facebook badge"
     />
   </a>
-</p>
 
-
-
-## 📫 Contact
-
-<p align="left">
   <a href="https://github.com/PaoloMartinEllema">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub badge"
+    />
+  </a>
+
+  <a href="https://github.com/JohnBryanJavellana/npm-backend">
+    <img
+      src="https://img.shields.io/badge/Repo-npm--backend-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="npm-backend repository badge"
     />
   </a>
 </p>
