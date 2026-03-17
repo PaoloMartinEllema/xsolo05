@@ -58,43 +58,7 @@
   </a>
 </p>
 
----
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/PaoloMartinEllema/freqIT">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMartinEllema&repo=freqIT&theme=transparent&hide_border=true"
-      alt="freqIT repo card"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PaoloMartinEllema/CLI-TASKMANAGER">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMartinEllema&repo=CLI-TASKMANAGER&theme=transparent&hide_border=true"
-      alt="CLI-TASKMANAGER repo card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PaoloMartinEllema/budget-tracker">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMartinEllema&repo=budget-tracker&theme=transparent&hide_border=true"
-      alt="budget-tracker repo card"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PaoloMartinEllema/Cellular-automaton">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMartinEllema&repo=Cellular-automaton&theme=transparent&hide_border=true"
-      alt="Cellular-automaton repo card"
-    />
-  </a>
-</p>
-
----
 
 ## 📫 Contact
 
