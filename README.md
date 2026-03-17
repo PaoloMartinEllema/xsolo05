@@ -22,8 +22,12 @@
   </a>
 </p>
 
-> Note: `REST API` isn’t a valid skillicons icon key, so I removed it.  
-> If you want, I can add REST as text badges instead.
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST APIs badge"
+  />
+</p>
 
 ---
 
@@ -59,14 +63,11 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-<p align="center">
   <a href="https://github.com/PaoloMartinEllema/freqIT">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMartinEllema&repo=freqIT&theme=transparent&hide_border=true"
       alt="freqIT repo card"
     />
-  </a>
-</p>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/PaoloMartinEllema/CLI-TASKMANAGER">
@@ -95,7 +96,7 @@
 
 ---
 
-## 📫 Reach me at
+## 📫 Contact
 
 <p align="left">
   <a href="https://github.com/PaoloMartinEllema">
